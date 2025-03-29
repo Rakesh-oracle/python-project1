@@ -10,3 +10,4 @@ def print_pyramid(n):
 n = int(input("Enter the number of rows for the pyramid: "))
 # Printing the pyramid
 print_pyramid(n)
+print("thankyou baby")
