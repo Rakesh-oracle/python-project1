@@ -1,0 +1,21 @@
+# Function to fetch data from the URL and write to a file
+def fetch_data_and_write_to_file(url, filename):
+try:
+# Send a GET request to the URL
+response = requests.get(url)
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+# Open the file in write mode and write the content from the URL
+with open(filename, 'w', encoding='utf-8') as file:
+file.write(response.text)
+print(f"Data fetched successfully from {url} and written to {filename}")
+else:
+print(f"Failed to fetch data from {url}. HTTP Status Code:
+{response.status_code}")
+except Exception as e:
+print(f"An error occurred: {e}")
+# Input: Getting URL and file name from the user
+url = input("Enter the URL to fetch data from: ")
+filename = input("Enter the file name to save the data: ")
+# Fetching the data and writing it to the file
+fetch_data_and_write_to_file(url, filename)
