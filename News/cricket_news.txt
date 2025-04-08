@@ -3,6 +3,7 @@ Batting first, RCB posted an impressive 221/5, with standout performances from V
 
 What did you think of the match? Were you rooting for RCB or MI?
 
+<<<<<<< HEAD
 News by Deba :
 Legendary West Indies fast bowler Ian Bishop engaged in cheeky banter with his commentary colleagues during the ongoing Indian Premier League (IPL) and called some of them extremely 'pro-CSK'. Bishop was having a conversation with Ambati Rayudu and he went on to namedrop Rayudu, Matthew Hayden, and Shane Watson while saying that sometimes their opinions are extremely biased when the topic is their former team - Chennai Super Kings. It has not been a good start to the campaign for CSK as they have won just one out of their first four matches in this year's competition.
 What did you think of the match? Were you rooting for RCB or MI?
@@ -12,6 +13,16 @@ What did you think of the match? Were you rooting for RCB or MI?
 What did you think of the match? Were you rooting for RCB or MI?ISL Cup: Chhetri's last gasp strike puts Bengaluru FC into final. ...
 Freestyle chess: Gukesh leads Indian charge in Paris, Niemann pulls out. ...
 Barca Legends v Madrid Legends Live Streaming: Where to watch El Clasico Legends. ...
+=======
+JEE MAIN EXAM UPDATE
+- JEE Main 2025 Exam Updates: The Joint Entrance - JEE Main 2025 Exam Updates: The Joint Entrance will may be held on 9th april
+
+
+What did you think of the match? Were you rooting for RCB or MI?ISL Cup: Chhetri's last gasp strike puts Bengaluru FC into final. ...
+Freestyle chess: Gukesh leads Indian charge in Paris, Niemann pulls out. ...
+Barca Legends v Madrid Legends Live Streaming: Where to watch El Clasico Legends. ...
+
+>>>>>>> 9d328dd963ca9070dd2e4ffd37a615aacb2bd831
 What did you think of the match? Were you rooting for RCB or MI?
 
 Yesterday's cricket action featured an exciting IPL 2025 match between 
@@ -46,5 +57,16 @@ You can find live scores and streaming options on ¹ ² ⁴:
 - Hotstar: Live streaming of cricket matches, including international and domestic games
 'I Was Not Able To Digest It, But...': Mohammed Siraj Opens Up On Being Dropped From Indian Cricket Team
 
+<<<<<<< HEAD
 Salman Khan's Film "Sikandar": The movie, directed by A.R. Murugadoss, saw a moderate opening at the box office with a collection of ₹25 crores on its first day. It experienced a slight boost on its second day due to the Eid holiday.
 
+=======
+
+Salman Khan's Film "Sikandar": The movie, directed by A.R. Murugadoss, saw a moderate opening at the box office with a collection of ₹25 crores on its first day. It experienced a slight boost on its second day due to the Eid holiday.
+
+Salman Khan's Film "Sikandar": The movie, directed by A.R. Murugadoss, saw a moderate opening at the box office with a collection of ₹25 crores on its first day. It experienced a slight boost on its second day due to the Eid holiday.
+
+
+Mohammed Siraj has been in blistering form in the ongoing edition of the Indian Premier League as he played a starring role in Gujarat Titans’ seven-wicket win over Sunrisers Hyderabad by picking up his tournament-best figures of 4/17 at his home ground in the Rajiv Gandhi International Stadium in Hyderabad on Sunday
+
+>>>>>>> 9d328dd963ca9070dd2e4ffd37a615aacb2bd831
