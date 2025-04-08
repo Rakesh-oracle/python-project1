@@ -13,13 +13,22 @@ Women's Cricket
 - Kashvee Gautam's Call-Up: Indian pace bowling all-rounder Kashvee Gautam has received her maiden ODI call-up for Sri Lanka's upcoming tri-series ³ ⁴.
 Yesterday's cricket action featured an exciting IPL 2025 match between Royal Challengers Bengaluru (RCB) and Mumbai Indians (MI) at the Wankhede Stadium. RCB secured a thrilling 12-run victory, breaking their decade-long winless streak at this venue.
 Batting first, RCB posted an impressive 221/5, with standout performances from Virat Kohli (67 runs) and Rajat Patidar (64 runs). Kohli also achieved a milestone, crossing 13,000 T20 runs. Despite a spirited chase led by Tilak Varma (56 runs) and Hardik Pandya (42 runs), MI fell short, finishing at 209/9. Krunal Pandya's bowling (4 wickets for 45 runs) played a crucial role in RCB's victory.
-<<<<<<< HEAD
+
 What did you think of the match? Were you rooting for RCB or MI?
 
+JEE MAIN EXAM UPDATE
 - JEE Main 2025 Exam Updates: The Joint Entrance - JEE Main 2025 Exam Updates: The Joint Entrance will may be held on 9th april
 
+<<<<<<< HEAD
 ====
 =======
+=======
+
+What did you think of the match? Were you rooting for RCB or MI?ISL Cup: Chhetri's last gasp strike puts Bengaluru FC into final. ...
+Freestyle chess: Gukesh leads Indian charge in Paris, Niemann pulls out. ...
+Barca Legends v Madrid Legends Live Streaming: Where to watch El Clasico Legends. ...
+
+>>>>>>> 9d328dd963ca9070dd2e4ffd37a615aacb2bd831
 What did you think of the match? Were you rooting for RCB or MI?
 
 Yesterday's cricket action featured an exciting IPL 2025 match between 
@@ -54,6 +63,11 @@ You can find live scores and streaming options on ¹ ² ⁴:
 - Hotstar: Live streaming of cricket matches, including international and domestic games
 'I Was Not Able To Digest It, But...': Mohammed Siraj Opens Up On Being Dropped From Indian Cricket Team
 
+
 Salman Khan's Film "Sikandar": The movie, directed by A.R. Murugadoss, saw a moderate opening at the box office with a collection of ₹25 crores on its first day. It experienced a slight boost on its second day due to the Eid holiday.
->>>>>>> 085ef1a37d2c256dbece18673ef149deca978652
+
+Salman Khan's Film "Sikandar": The movie, directed by A.R. Murugadoss, saw a moderate opening at the box office with a collection of ₹25 crores on its first day. It experienced a slight boost on its second day due to the Eid holiday.
+
+
+Mohammed Siraj has been in blistering form in the ongoing edition of the Indian Premier League as he played a starring role in Gujarat Titans’ seven-wicket win over Sunrisers Hyderabad by picking up his tournament-best figures of 4/17 at his home ground in the Rajiv Gandhi International Stadium in Hyderabad on Sunday
 
