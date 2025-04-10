@@ -92,10 +92,16 @@ i am rakeshpatro mia
 2nd news by deba:-
 Ashwin is now back in the CSK camp for this IPL season, rejoining forces with the legendary MS Dhoni. The duo had previously combined to bring an end to Nitish Rana's rampage in Guwahati and on Tuesday something similar was witnessed in Chandigarh, where CSK engaged in a thriller against Punjab.
 IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Royals Captain Sanju Samson has been fined after his team maintained a slow over-rate during Match No. 23 of the TATA Indian Premier League (IPL) 2025 against Gujarat Titans at the Narendra Modi Stadium, Ahmedabad.As this was his team’s second offence of the season under Article 2.22 of the IPL’s Code of Conduct, which pertains to minimum over-rate offences, Samson was fined INR 24 lakhs. The rest of the members of the Playing XI, including the Impact Player, will be fined either INR six lakhs or 25 per cent of their respective match fees, whichever is lesserIPL
+<<<<<<< HEAD
+You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
+=======
 
 <<<<<<< HEAD
 =======
 IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Royals Captain Sanju Samson has been fined after his team maintained a slow over-rate during Match No. 23 of the TATA Indian Premier League (IPL) 2025 against Gujarat Titans at the Narendra Modi Stadium, Ahmedabad.As this was his team’s second offence of the season under Article 2.22 of the IPL’s Code of Conduct, which pertains to minimum over-rate offences, Samson was fined INR 24 lakhs. The rest of the members of the Playing XI, including the Impact Player, will be fined either INR six lakhs or 25 per cent of their respective match fees, whichever is lesserIPL
 >>>>>>> 8e887bc89c777f25e74363dbfecf4a6489777de4
+<<<<<<< HEAD
 deba news 3:-Trump Tariffs Impact Live Updates: This comes as US President Donald Trump announced a 90-day pause on tariffs, however, China has been excluded from the pause, and instead, the tariff rate has been increased to 125%.
 
+=======
+>>>>>>> c7d532f0db55f15e0e70373d3c0a34c2c35e4675
