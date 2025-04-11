@@ -3,7 +3,6 @@ Batting first, RCB posted an impressive 221/5, with standout performances from V
 What did you think of the match? Were you rooting for RCB or MI?ISL Cup: Chhetri's last gasp strike puts Bengaluru FC into final. ...
 Freestyle chess: Gukesh leads Indian charge in Paris, Niemann pulls out. ...
 Barca Legends v Madrid Legends Live Streaming: Where to watch El Clasico Legends. ...
-=======
 What did you think of the match? Were you rooting for RCB or MI?
 
 Yesterday's cricket action featured an exciting IPL 2025 match between 
@@ -50,13 +49,11 @@ rak
 2nd news by deba:-
 Ashwin is now back in the CSK camp for this IPL season, rejoining forces with the legendary MS Dhoni. The duo had previously combined to bring an end to Nitish Rana's rampage in Guwahati and on Tuesday something similar was witnessed in Chandigarh, where CSK engaged in a thriller against Punjab.
 IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Royals Captain Sanju Samson has been fined after his team maintained a slow over-rate during Match No. 23 of the TATA Indian Premier League (IPL) 2025 against Gujarat Titans at the Narendra Modi Stadium, Ahmedabad.As this was his team’s second offence of the season under Article 2.22 of the IPL’s Code of Conduct, which pertains to minimum over-rate offences, Samson was fined INR 24 lakhs. The rest of the members of the Playing XI, including the Impact Player, will be fined either INR six lakhs or 25 per cent of their respective match fees, whichever is lesserIPL
-<<<<<<< HEAD
-You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
-=======
 
-<<<<<<< HEAD
-=======
+You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
+
 IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Royals Captain Sanju Samson has been fined after his team maintained a slow over-rate during Match No. 23 of the TATA Indian Premier League (IPL) 2025 against Gujarat Titans at the Narendra Modi Stadium, Ahmedabad.As this was his team’s second offence of the season under Article 2.22 of the IPL’s Code of Conduct, which pertains to minimum over-rate offences, Samson was fined INR 24 lakhs. The rest of the members of the Playing XI, including the Impact Player, will be fined either INR six lakhs or 25 per cent of their respective match fees, whichever is lesserIPL
+<<<<<<< HEAD
 >>>>>>> 8e887bc89c777f25e74363dbfecf4a6489777de4
 <<<<<<< HEAD
 You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
@@ -76,3 +73,33 @@ Business News
 - Investment Lessons: Peter Lynch's book "One Up on Wall Street" offers timeless investment lessons, including the importance of understanding a company's financials and management.
 - Private Jet Demand: Demand for private jets is surging in 2025, driven by religious tourism and business travel ¹.
 
+=======
+
+deba news 3:-Trump Tariffs Impact Live Updates: This comes as US President Donald Trump announced a 90-day pause on tariffs, however, China has been excluded from the pause, and instead, the tariff rate has been increased to 125%.
+
+
+Alisha news
+
+You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
+IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Royals Captain Sanju Samson has been fined after his team maintained a slow over-rate during Match No. 23 of the TATA Indian Premier League (IPL) 2025 against Gujarat Titans at the Narendra Modi Stadium, Ahmedabad.As this was his team’s second offence of the season under Article 2.22 of the IPL’s Code of Conduct, which pertains to minimum over-rate offences, Samson was fined INR 24 lakhs. The rest of the members of the Playing XI, including the Impact Player, will be fined either INR six lakhs or 25 per cent of their respective match fees, whichever is lesserIPL
+
+rak1
+'Harassed' ChatGPT maker OpenAI announces_ Today, we counter-sued Elon Musk to stop him and ... - The Times of India
+
+Rakesh Patro news
+Today's cricket buzz is all about the IPL 2025 clash between 
+Royal Challengers Bangalore (RCB) and Delhi Capitals (DC). 
+The match is set to take place at the M. Chinnaswamy Stadium in Bengaluru. 
+DC remains undefeated this season, 
+while RCB has won three out of their four matches.
+The toss is scheduled for 7:00 PM IST,
+ and the match will begin at 7:30 PM IST. 
+It's expected to be a high-scoring thriller, 
+given the favorable conditions for batters at the venue.
+Are you following the IPL this season? Which team are you rooting for?
+
+FRIENDSHIP: 
+It's a bond characterized by companionship, shared interests, 
+and the enjoyment of spending time together. Unlike family relationships, friendships are typically chosen, 
+and in many cultures, they are considered vital for a fulfilling life.
+>>>>>>> 9bfe6bbbb4eccc6eb05ee800011087d7f5c37b56
