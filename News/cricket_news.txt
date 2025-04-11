@@ -53,7 +53,31 @@ IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Ro
 You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
 
 IPL MEDIA ADVISORYApril 10, 2025Match 23, GT vs RR - Code of ConductRajasthan Royals Captain Sanju Samson has been fined after his team maintained a slow over-rate during Match No. 23 of the TATA Indian Premier League (IPL) 2025 against Gujarat Titans at the Narendra Modi Stadium, Ahmedabad.As this was his team’s second offence of the season under Article 2.22 of the IPL’s Code of Conduct, which pertains to minimum over-rate offences, Samson was fined INR 24 lakhs. The rest of the members of the Playing XI, including the Impact Player, will be fined either INR six lakhs or 25 per cent of their respective match fees, whichever is lesserIPL
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e887bc89c777f25e74363dbfecf4a6489777de4
+<<<<<<< HEAD
+You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
+=======
+<<<<<<< HEAD
+deba news 3:-Trump Tariffs Impact Live Updates: This comes as US President Donald Trump announced a 90-day pause on tariffs, however, China has been excluded from the pause, and instead, the tariff rate has been increased to 125%.
 
+=======
+>>>>>>> c7d532f0db55f15e0e70373d3c0a34c2c35e4675
+>>>>>>> 4b52c5caec3b63e28da4dee845f8685556759e1d
+=========
+akash
+You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
+akash-----
+Business News
+- Stock Market Updates: Tata Steel's share price is up 5.31% to ₹133.95, while Kotak Mahindra Bank's share price has increased by 3.94% to ₹2,134.00.
+- Investment Lessons: Peter Lynch's book "One Up on Wall Street" offers timeless investment lessons, including the importance of understanding a company's financials and management.
+- Private Jet Demand: Demand for private jets is surging in 2025, driven by religious tourism and business travel ¹.
+
+=======
+=======
+
+>>>>>>> e2f0fe75ed9828b750903a54c905c9fc5fda2a11
 
 deba news 3:-Trump Tariffs Impact Live Updates: This comes as US President Donald Trump announced a 90-day pause on tariffs, however, China has been excluded from the pause, and instead, the tariff rate has been increased to 125%.
 
@@ -82,6 +106,9 @@ FRIENDSHIP:
 It's a bond characterized by companionship, shared interests, 
 and the enjoyment of spending time together. Unlike family relationships, friendships are typically chosen, 
 and in many cultures, they are considered vital for a fulfilling life.
+<<<<<<< HEAD
+>>>>>>> 9bfe6bbbb4eccc6eb05ee800011087d7f5c37b56
+=======
 
 You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
 
@@ -90,4 +117,12 @@ deba news 3:-Trump Tariffs Impact Live Updates: This comes as US President Donal
 
 akash
 You're looking for information on today's events. Could you please specify what kind of events you're interested in? For example, are you looking for news, sports, entertainment, or something else?
+
+>>>>>>> e2f0fe75ed9828b750903a54c905c9fc5fda2a11
+akashs
+Business News
+- Stock Market Updates: Tata Steel's share price is up 5.31% to ₹133.95, while Kotak Mahindra Bank's share price has increased by 3.94% to ₹2,134.00.
+- Investment Lessons: Peter Lynch's book "One Up on Wall Street" offers timeless investment lessons, including the importance of understanding a company's financials and management.
+- Private Jet Demand: Demand for private jets is surging in 2025, driven by religious tourism and business travel ¹.
+
 
